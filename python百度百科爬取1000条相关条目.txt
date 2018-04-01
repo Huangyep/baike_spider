@@ -1,0 +1,8 @@
+百度百科Python
+入口页：https://baike.baidu.com/item/Python/407313
+URL格式：
+	—— 词条页面URL: /item/......
+数据格式：
+	—— 标题：<dd class="lemmaWgt-lemmaTitle"><h1>...</h1></dd>
+	—— 简介：<div class="lemma-summary" label-module="lemmaSummary">...</div>
+页面编码：UTF-8
